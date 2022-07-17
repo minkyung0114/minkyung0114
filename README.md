@@ -24,6 +24,9 @@
  - 한국소프트웨어종합학술대회 KSC2021 -poster section </br>
  - 한국 소프트웨어공학 학술대회 KCSE2022 - Oral section(KCSE 2022 제 24권 제 1호) </br>
  
+## :cherry_blossom: Project </br>
+소프트웨어 저작권 등록 - 반려견 대퇴골 탈구 진단을 위한 Norberg angle(노버그앵글)측정기
+특허 - 수의영상처리 기법을 활용한 대퇴골 탈구 판독 장치 및 방법
 
 
  
@@ -32,7 +35,7 @@
 
 |      **Type**     |     **Date**     |           **Contents**           |       **Org.**       |
 |:-----------------:|:----------------:|:--------------------------------:|:--------------------:|
-|   Master degree   | 2020.03~ 2022.02 | Computer Science and Engineering | Konkuk Univ. HCI Lab |
+|   Master degree   | 2020.03~ 2022.02 | Computer Science and Engineering | Konkuk Univ. |
 | Bachelor's degree | 2013.03~ 2015.02 |           Media design           |     Yongin Univ.     |
 
 
